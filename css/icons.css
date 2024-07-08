@@ -20,28 +20,34 @@
     line-height: 1;
   }
   
-  .gumi-forklift:before {
-    content: "\e900";
-  }
-  .gumi-hanger:before {
-    content: "\e901";
-  }
-  .gumi-safe:before {
-    content: "\e902";
-  }
-  .gumi-sliding-door-closet:before {
-    content: "\e903";
-  }
-  .gumi-test-tube-v1_1:before {
-    content: "\e904";
-  }
-  .gumi-van:before {
-    content: "\e905";
-  }
-  .gumi-wardrobe:before {
-    content: "\e906";
-  }
-  .gumi-lab:before {
-    content: "\e9aa";
-  }
-  
+
+.gumi-mebeles-darbam:before {
+  content: "\e907";
+}
+.gumi-nerusejosa-terauda-mebeles:before {
+  content: "\e908";
+}
+.gumi-forklift:before {
+  content: "\e900";
+}
+.gumi-hanger:before {
+  content: "\e901";
+}
+.gumi-safe:before {
+  content: "\e902";
+}
+.gumi-sliding-door-closet:before {
+  content: "\e903";
+}
+.gumi-tube:before {
+  content: "\e904";
+}
+.gumi-van:before {
+  content: "\e905";
+}
+.gumi-wardrobe:before {
+  content: "\e906";
+}
+.gumi-lab:before {
+  content: "\e9aa";
+}
