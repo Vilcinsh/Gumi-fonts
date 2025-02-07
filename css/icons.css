@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'gumi-icons';
-  src:  url('fonts/gumi-icons.eot');
-  src:  url('fonts/gumi-icons.eot') format('embedded-opentype'),
-    url('fonts/gumi-icons.ttf') format('truetype'),
-    url('fonts/gumi-icons.woff') format('woff'),
-    url('fonts/gumi-icons.svg') format('svg');
+  src:  url('webfonts/gumi-icons.eot');
+  src:  url('webfonts/gumi-icons.eot') format('embedded-opentype'),
+    url('webfonts/gumi-icons.ttf') format('truetype'),
+    url('webfonts/gumi-icons.woff') format('woff'),
+    url('webfonts/gumi-icons.svg') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
