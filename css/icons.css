@@ -22,12 +22,26 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
-  
 
-.gumi-mebeles-darbam:before {
+.gumi {
+  font-family: 'gumi-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.gumi-fork-tirisanas:before {
+  content: "\1f441";
+}
+.gumi-met-mebeles:before {
   content: "\e907";
 }
-.gumi-nerusejosa-terauda-mebeles:before {
+.gumi-nt-mebeles:before {
   content: "\e908";
 }
 .gumi-forklift:before {
@@ -54,6 +68,4 @@
 .gumi-lab:before {
   content: "\e9aa";
 }
-.gumi-tirisanas:before {
-  content: "\e909";
-}
+
