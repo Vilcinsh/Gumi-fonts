@@ -18,6 +18,9 @@
     font-variant: normal;
     text-rendering: auto;
     line-height: 1;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
   
 
@@ -50,4 +53,7 @@
 }
 .gumi-lab:before {
   content: "\e9aa";
+}
+.gumi-tirisanas:before {
+  content: "\e909";
 }
